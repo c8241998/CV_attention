@@ -18,9 +18,10 @@ Keep updating, just enjoy using them!
 | updating | updating |
 
 ### Squeeze-and-Excitation Network(SEnet)
-<div align="center">![](./img/senet1.jpg)
+<!-- ![](./img/senet1.jpg) -->
+<img src="./img/senet1.jpg" div align=center />
 SENet mainly learns the correlation between channels, filters out the attention for channels, slightly increases the amount of computation, but the effect is better.
-<div align="center">![](./img/senet2.jpg)
+<img src="./img/senet2.jpg" div align=center />
 
 ### Non-local Neural Networks
 
