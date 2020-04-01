@@ -27,4 +27,4 @@ SENet mainly learns the correlation between channels, filters out the attention 
 
 a pytorch implementation of [Non-local Neural Networks](https://arxiv.org/abs/1711.07971)
 
-<img src="./img/nonlocal.jpg" width = "50%" height = "50%" div align=center />
+<img src="./img/nonlocal.jpg" width = "50%" height = "50%" div align="center" />
