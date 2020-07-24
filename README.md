@@ -1,6 +1,6 @@
 # CV Attention Models Reproduction
 pytorch-version implementation codes of some CV attention models
-
+(some models are also provided with paddlepaddle-version)
 
 All attention models here are plug-and-play blocks
 
